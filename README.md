@@ -2,7 +2,6 @@
 - 👀 I’m interested in learning about data science and machine learning
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on nothing currently, just a newbie
-- 📫 How to reach me uh don't
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: i learn easily and want to do it all
 
