@@ -1,11 +1,14 @@
-- 👋 Hi, I’m @Harneet9602
-- 👀 I’m interested in learning about data science and machine learning
-- 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on nothing currently, just a newbie
-- 😄 Pronouns: she/her
-- ⚡ Fun fact: i learn easily and want to do it all
+ 👋 Hi there, I’m Harneet!
 
-<!---
-Harneet9602/Harneet9602 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+ 🎯 Passionate about Data Science and Machine Learning
+ 🐍 Currently learning and building projects in Python
+ 💡 I love figuring things out and making progress — even if it's one bug at a time
+ 🌈 I learn fast, dream big, and want to do it all!
+
+🔭 Current Goals:
+ Build a solid portfolio of Python + Data Science projects
+ Contribute to open source
+ Land an internship or role at a creative, datadriven company
+
+📫 Let's connect:  
+You can find me here on GitHub, pushing beginner to intermediate projects that reflect my growth 🚀
