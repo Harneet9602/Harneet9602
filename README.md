@@ -14,4 +14,5 @@ To contribute to open-source projects in the machine learning space.
 
 **Connect With Me**
 Email: harneetkaur4464@gmail.com
+
 LinkedIn:https://www.linkedin.com/in/harneet-k-a04649251/
