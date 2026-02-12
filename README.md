@@ -1,18 +1,52 @@
-Hello! I'm Harneet, a graduate student specializing in the application of machine learning to solve real-world problems. 
-My primary focus is on Natural Language Processing and building effective Recommendation Systems.
-I am a dedicated problem-solver with a strong foundation in statistical analysis and a passion for turning complex data into actionable insights.
-My core technical skills include Python, SQL, Scikit-learn, and libraries for building NLP and recommender models.
+# Hi there, I'm Harneet! 👋
 
-**What I'm Currently Working On**
-🔬 Capstone Project: Developing an NLP classifier to detect depression from social media text, focusing on nuanced model evaluation for sensitive applications.
-🚀 Recommendation Systems: Exploring hybrid recommendation techniques and the use of LLMs to enhance content-based filtering and mitigate the cold-start problem.
+### 🎓 M.Sc. Data Science Student | Agentic AI & NLP Practitioner
 
-**My Goals**
-To continuously build a portfolio of impactful data science projects.
-To secure a challenging AI/ML internship where I can apply my skills to real-world data challenges.
-To contribute to open-source projects in the machine learning space.
+I am a data scientist passionate about building intelligent systems that solve human-centric problems. Currently, I am deep-diving into **Agentic Workflows** and **Large Language Models (LLMs)** while maintaining a strong foundation in statistical analysis and database management.
 
-**Connect With Me**
-Email: harneetkaur4464@gmail.com
+---
 
-LinkedIn:https://www.linkedin.com/in/harneet-k-a04649251/
+### ⚡ What I'm Building Right Now
+**🤖 Multi-Agent Mental Health & Habit Coach**
+* **Tech Stack:** Python, LangChain, LangGraph, Groq API, SQLite.
+* **Description:** Developing an intelligent, state-aware AI companion that features a **Supervisor-Worker architecture**. The system routes user intents between specialized agents (Therapist, Habit Coach, Safety Monitor) and maintains long-term memory to provide personalized support for mental well-being and productivity.
+
+---
+
+### 📂 Project Highlights
+**1. 🔬 NLP Classifier for Mental Health**
+* Developed a text analysis model to detect signs of depression in social media posts.
+* **Focus:** Nuanced model evaluation and ethical AI considerations for sensitive health data.
+
+**2. 🚀 Hybrid Recommendation System**
+* Built a product recommendation engine addressing the "cold-start" problem.
+* **Technique:** Combined content-based filtering with LLM-generated embeddings to enhance personalization accuracy.
+
+---
+
+### 📊 My Portfolios
+I maintain dedicated repositories to document my specialized skills:
+
+| Portfolio | Description |
+| :--- | :--- |
+| **🗄️ SQL Portfolio** | Complex queries, data warehousing concepts, and database schema design. |
+| **🤖 ML Portfolio** | End-to-end machine learning projects, from EDA to model deployment. |
+
+---
+
+### 🛠 Technical Toolbox
+* **Languages:** Python, SQL
+* **AI/LLM:** LangChain, LangGraph, Transformers, Scikit-learn
+* **Data & Stats:** Pandas, NumPy, Statistical Modeling
+* **Tools:** Git, VS Code, Jupyter
+
+---
+
+### 🎯 Looking For
+I am actively seeking **AI/ML jobs** where I can apply my skills in Agentic AI, NLP, and Data Engineering to real-world challenges.
+
+---
+
+### 📫 Let's Connect
+* 📧 **Email:** [harneetkaur4464@gmail.com](mailto:harneetkaur4464@gmail.com)
+* 💼 **LinkedIn:** [Harneet Kaur](https://www.linkedin.com/in/harneet-k-a04649251/)
