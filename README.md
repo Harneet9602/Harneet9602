@@ -2,51 +2,54 @@
 
 ### 🎓 M.Sc. Data Science Student | Agentic AI & NLP Practitioner
 
-I am a data scientist passionate about building intelligent systems that solve human-centric problems. Currently, I am deep-diving into **Agentic Workflows** and **Large Language Models (LLMs)** while maintaining a strong foundation in statistical analysis and database management.
+I am a data scientist specializing in building intelligent systems that bridge the gap between complex machine learning and real-world utility. My work focuses on **Agentic Workflows**, **Multiclass NLP Classification**, and **deploying AI applications** for mental health and personalization.
 
 ---
 
 ### ⚡ What I'm Building Right Now
-**🤖 Multi-Agent Mental Health & Habit Coach**
+**🤖 [Agentic AI Mental Health & Habit Coach]((https://github.com/Harneet9602/agentic-ai-chatbot)**
 * **Tech Stack:** Python, LangChain, LangGraph, Groq API, SQLite.
-* **Description:** Developing an intelligent, state-aware AI companion that features a **Supervisor-Worker architecture**. The system routes user intents between specialized agents (Therapist, Habit Coach, Safety Monitor) and maintains long-term memory to provide personalized support for mental well-being and productivity.
+* **Architecture:** A state-aware **Supervisor-Worker system** where a central "Brain" routes user intents to specialized agents (Therapist, Habit Coach, Safety Monitor).
+* **Key Features:** Long-term memory (persistence), multi-turn conversation handling, and distinct persona modulation.
 
 ---
 
-### 📂 Project Highlights
-**1. 🔬 NLP Classifier for Mental Health**
-* Developed a text analysis model to detect signs of depression in social media posts.
-* **Focus:** Nuanced model evaluation and ethical AI considerations for sensitive health data.
+### 📂 Featured Projects
+**1. 🧠 [Multiclass Mental Health Classifier](https://github.com/Harneet9602/Mental-Health-Classification)**
+* **Scope:** End-to-end NLP system detecting **7 distinct mental health states** (e.g., Depression, Anxiety, Stress, Normal) from social media text.
+* **Deployment:** Fully deployed as an interactive web app using **Streamlit**.
+* **Impact:** Focuses on nuanced model evaluation and real-time inference for sensitive health applications.
 
-**2. 🚀 Hybrid Recommendation System**
-* Built a product recommendation engine addressing the "cold-start" problem.
-* **Technique:** Combined content-based filtering with LLM-generated embeddings to enhance personalization accuracy.
+**2. 🚀 [Hybrid Recommendation System](https://github.com/Harneet9602/Recommendation-System)**
+* **Problem Solved:** Addressed the "cold-start" problem in product recommendation.
+* **Technique:** Combined content-based filtering with **LLM-generated embeddings** to enhance personalization accuracy beyond traditional matrix factorization.
 
 ---
 
-### 📊 My Portfolios
+### 📊 Technical Portfolios
 I maintain dedicated repositories to document my specialized skills:
 
-| Portfolio | Description |
-| :--- | :--- |
-| **🗄️ SQL Portfolio** | Complex queries, data warehousing concepts, and database schema design. |
-| **🤖 ML Portfolio** | End-to-end machine learning projects, from EDA to model deployment. |
+| Portfolio | Description | Link |
+| :--- | :--- | :--- |
+| **🗄️ SQL Portfolio** | Complex queries, warehousing, and schema design. | [View Repo](https://github.com/Harneet9602/sql-practice-portfolio) |
+| **🤖 ML Portfolio** | End-to-end ML projects, from EDA to model deployment. | [View Repo](https://github.com/Harneet9602/Machine-Learning-Portfolio) |
 
 ---
 
 ### 🛠 Technical Toolbox
 * **Languages:** Python, SQL
-* **AI/LLM:** LangChain, LangGraph, Transformers, Scikit-learn
-* **Data & Stats:** Pandas, NumPy, Statistical Modeling
-* **Tools:** Git, VS Code, Jupyter
+* **AI/LLM:** LangChain, LangGraph, Transformers (Hugging Face), Scikit-learn
+* **Deployment:** Streamlit, Flask, Docker (Learning)
+* **Data:** Pandas, NumPy, Statistical Modeling
 
 ---
 
 ### 🎯 Looking For
-I am actively seeking **AI/ML jobs** where I can apply my skills in Agentic AI, NLP, and Data Engineering to real-world challenges.
+I am actively seeking **AI/ML Internships** where I can apply my skills in **Agentic AI**, **NLP**, and **Full-Stack Data Science** to solve meaningful problems.
 
 ---
 
 ### 📫 Let's Connect
 * 📧 **Email:** [harneetkaur4464@gmail.com](mailto:harneetkaur4464@gmail.com)
 * 💼 **LinkedIn:** [Harneet Kaur](https://www.linkedin.com/in/harneet-k-a04649251/)
+* 🌐 **Portfolio:** [harneet9602.github.io](https://harneet9602.github.io/)
