@@ -1,33 +1,33 @@
 # Hi there, I'm Harneet! 👋
 
-### 🎓 M.Sc. Data Science Student | Agentic AI & NLP Practitioner
+### 🎓 M.Sc. Data Science Graduate | Agentic AI & Full-Stack Engineering
 
-I am a data scientist specializing in building intelligent systems that bridge the gap between complex machine learning and real-world utility. My work focuses on **Agentic Workflows**, **Multiclass NLP Classification**, and **deploying AI applications** for mental health and personalization.
+I'm a Data Scientist specializing in Agentic AI, RAG, and LLM applications, built on an M.Sc. in Data Science (VIT Vellore, CGPA: 9.46/10). I bring a combination of statistical rigor and engineering discipline: building models that hold up under evaluation, and shipping them into real, production systems.
 
 ---
 
-### ⚡ What I'm Building Right Now
-**🤖 [Agentic AI Mental Health & Habit Coach]((https://github.com/Harneet9602/agentic-ai-chatbot)**
-* **Tech Stack:** Python, LangChain, LangGraph, Groq API, SQLite.
-* **Architecture:** A state-aware **Supervisor-Worker system** where a central "Brain" routes user intents to specialized agents (Therapist, Habit Coach, Safety Monitor).
-* **Key Features:** Long-term memory (persistence), multi-turn conversation handling, and distinct persona modulation.
+### 💼 Currently: Full-Stack Engineering Intern @ Incredible Visibility
+
+Working on an n8n-style visual AI automation platform. I authored the architectural outline for the platform's AI Agent Triggers and Automation system, separating a deterministic workflow orchestrator from an isolated, schema-validated AI Agent, which became the reference architecture for a 23-ticket engine epic. Since then, I've contributed to the builder UI and logic across multiple node types, built tools for debugging workflow runs, and worked across full-stack UI migrations spanning 60+ files.
 
 ---
 
 ### 📂 Featured Projects
-**1. 🧠 [Multiclass Mental Health Classifier](https://github.com/Harneet9602/Mental-Health-Classification)**
-* **Scope:** End-to-end NLP system detecting **7 distinct mental health states** (e.g., Depression, Anxiety, Stress, Normal) from social media text.
-* **Deployment:** Fully deployed as an interactive web app using **Streamlit**.
-* **Impact:** Focuses on nuanced model evaluation and real-time inference for sensitive health applications.
 
-**2. 🚀 [Hybrid Recommendation System](https://github.com/Harneet9602/Recommendation-System)**
-* **Problem Solved:** Addressed the "cold-start" problem in product recommendation.
-* **Technique:** Combined content-based filtering with **LLM-generated embeddings** to enhance personalization accuracy beyond traditional matrix factorization.
+**1. 🧠 [SEHAJ: Multi-Agent Conversational AI for Mental Health Support](https://github.com/Harneet9602/Sehaj-Holistic-AI-Companion)**
+* **Tech Stack:** Python, LangGraph, Llama 3.3, Groq, Streamlit
+* **Architecture:** A 6-agent orchestration framework improving intent routing and reducing context interference in clinical AI workflows.
+* **Key Results:** Guardian safety protocol achieving 90% interception accuracy on high-risk scenarios with 0% false positives on benign conversations; 54.7% reduced token overhead; 0.71s average latency via Groq acceleration.
+* **Live Demo:** [sehaj-holistic-ai-companion.streamlit.app](https://sehaj-holistic-ai-companion-mxmfmefmmhgtxcweevkx7e.streamlit.app/)
+
+**2. 🔍 [Multiclass Mental Health Classifier](https://github.com/Harneet9602/Mental-Health-Classification)**
+* **Scope:** NLP pipeline classifying 51,000+ social media posts into 7 mental health categories, addressing severe class imbalance through evaluation-driven modeling.
+* **Approach:** Benchmarked MentalBERT, BioBERT, and PubMedBERT; MentalBERT performed best (F1 = 0.84). Emotion-aware preprocessing improved baseline performance by 15%.
+* **Live Demo:** [mental-health-nlp-analyzer.streamlit.app](https://mental-health-nlp-analyzer.streamlit.app/)
 
 ---
 
 ### 📊 Technical Portfolios
-I maintain dedicated repositories to document my specialized skills:
 
 | Portfolio | Description | Link |
 | :--- | :--- | :--- |
@@ -37,19 +37,22 @@ I maintain dedicated repositories to document my specialized skills:
 ---
 
 ### 🛠 Technical Toolbox
-* **Languages:** Python, SQL
-* **AI/LLM:** LangChain, LangGraph, Transformers (Hugging Face), Scikit-learn
-* **Deployment:** Streamlit, Flask, Docker (Learning)
-* **Data:** Pandas, NumPy, Statistical Modeling
+
+* **Machine Learning & AI:** RAG, NLP, LLM Applications, LLM Provider Architecture, Prompt Engineering, Agentic AI, LangGraph, Transformers, Fine-Tuning, Machine Learning, Model Evaluation, Scikit-Learn, TensorFlow, Keras
+* **Programming:** Python, SQL, R, JavaScript
+* **Full-Stack & Platform:** React, Node.js, Supabase, REST APIs, Git, Bitbucket
+* **Data & Visualization:** Pandas, NumPy, Matplotlib, Seaborn, Streamlit, Jupyter Notebook
 
 ---
 
 ### 🎯 Looking For
-I am actively seeking **AI/ML Internships** where I can apply my skills in **Agentic AI**, **NLP**, and **Full-Stack Data Science** to solve meaningful problems.
+
+I'm actively seeking **full-time AI/ML Engineer roles** where I can apply Agentic AI, NLP, and full-stack engineering skills to build systems that are both intelligent and production-ready.
 
 ---
 
 ### 📫 Let's Connect
+
 * 📧 **Email:** [harneetkaur4464@gmail.com](mailto:harneetkaur4464@gmail.com)
 * 💼 **LinkedIn:** [Harneet Kaur](https://www.linkedin.com/in/harneet-k-a04649251/)
 * 🌐 **Portfolio:** [harneet9602.github.io](https://harneet9602.github.io/)
