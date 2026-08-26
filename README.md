@@ -31,8 +31,8 @@ Repo: github.com/Harneet9602/Hybrid-Recommendation-System
 
 | Portfolio | Description | Link |
 |---|---|---|
-| 🗄️ SQL Portfolio | Complex queries, warehousing, and schema design. | View Repo |
-| 🤖 ML Portfolio | End-to-end ML projects, from EDA to model deployment. | View Repo |
+| 🗄️ SQL Portfolio | Complex queries, warehousing, and schema design. | [View Repo](https://github.com/Harneet9602/sql-practice-portfolio) |
+| 🤖 ML Portfolio | End-to-end ML projects, from EDA to model deployment. |[View Repo](https://github.com/Harneet9602/Machine-Learning-Portfolio) |
 
 ## 🛠 Technical Toolbox
 
